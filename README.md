@@ -14,3 +14,5 @@ Now add the pacman repo by putting
 Server = https://regedit-sys.github.io/bakour/x86_64
 ```
 in your /etc/pacman.conf file.
+
+Check out https://regedit-sys.github.io/bakour/available.md for packages that I've made avaliable through this!
