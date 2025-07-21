@@ -4,7 +4,7 @@ My personal Pacman repository!
 
 Go ahead and run
 ```
-gpg --recv-keys gpg --recv-keys 4BBE9313EA9FD27A
+gpg --recv-keys A2E34CB402C2F8C65FACD5294BBE9313EA9FD27A
 ```
 in your terminal to recieve my GPG Signing Key!
 
